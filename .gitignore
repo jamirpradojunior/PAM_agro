@@ -1,0 +1,19 @@
+# --- Pastas Pesadas/Locais (Sua solicita��o) ---
+data/raw/
+notebooks/
+src/
+
+# --- Padr�es comuns para Python e An�lise de Dados (Recomendado) ---
+# Ignorar cache do Jupyter Notebook (sempre aparece quando se usa notebooks)
+.ipynb_checkpoints/
+
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de ambiente virtual (se houver)
+.venv/
+env/
+
+# Ignorar arquivos de configura��o local/senhas
+.env
